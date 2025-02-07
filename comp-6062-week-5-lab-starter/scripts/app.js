@@ -17,7 +17,7 @@ let isStrictEqual;
 let isNotEqual;
 let isStrictNotEqual;
 let add;
-let substract;
+let sub;
 let multiply;
 let power;
 let division;
