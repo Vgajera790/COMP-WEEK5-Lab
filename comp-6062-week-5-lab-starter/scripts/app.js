@@ -20,7 +20,7 @@ let add;
 let substract;
 let multiply;
 let power;
-let dev;
+let division;
 let isGreaterThan;
 let isGreaterOrEqual;
 let isLessThan;
@@ -47,7 +47,7 @@ isStrictNotEqual=(a!==b);
 add=(a+b);
 // Example: let sub;
 // Subtract 'b' from 'a'.
-substract=(b-a);
+sub=(b-a);
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 multiply=(a*b);
@@ -56,7 +56,7 @@ multiply=(a*b);
 power=(a**b);
 // Example: let division;
 // Divide 'a' by 'b'.
-dev=(a/b);
+division=(a/b);
 // Step 4: Use comparison operators to compare the variables.
 // Example: let isGreaterThan;
 // Check if 'a' is greater than 'b'.
